@@ -16,7 +16,7 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     font-size: 26px;
-    background-color: grey;
+    background-color: rgb(226, 226, 226);
   }
    
   h1{
@@ -30,6 +30,7 @@ body {
       color: transparent;
       font-family: 'Varela Round', sans-serif;
       font-size: 5rem;
+      -webkit-text-stroke: 2px rgba(0, 0, 0, 0.286);
   }
 
   section{
